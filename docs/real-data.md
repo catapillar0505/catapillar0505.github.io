@@ -275,7 +275,7 @@ Website URL:
 ### Profile Image
 ```
 About Section Image Path: images/about.jpg
-Replace? and New Path:
+Replace? and New Path: images\profile.jpg
 ```
 
 ### Contact Request Message
